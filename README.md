@@ -10,7 +10,7 @@ For detail, please see the document in the folder, writen by Chinese and I belie
 2. Common API for creating an UEFI application.
 3. Personal Comments.
 
-Any Questions, please contact liute62@sina.cn or liuhaodong0828@gmail.com, thank you!
+Any Questions, please contact liute62@sina.cn thank you!
 
 Reference:
 
